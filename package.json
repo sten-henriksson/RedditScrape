@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/raskenstam/RedditScrape#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongodb": "^3.3.2",
     "mongoose": "^5.6.12",
     "request": "^2.88.0"
